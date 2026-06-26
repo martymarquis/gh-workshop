@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Marty Marquis",
+    "section": "",
+    "text": "A cartographer and spatial analyst based in Cascadia, Marty currently serves on the City Council in Scappoose, Oregon. Founding member of the band Blitzen Trapper, he toured extensively in North America and Europe for a dozen years and was inducted in the Oregon Music Hall of Fame in 2024.\n\n\n\n\nAdd an area of expertise\nAdd a tool, method, or topic\nAdd another interest\n\n\n\n\n\nGitHub\nOrganization or professional profile\nEmail or contact page"
+  },
+  {
+    "objectID": "about.html#about-me-or-this-project",
+    "href": "about.html#about-me-or-this-project",
+    "title": "About",
+    "section": "",
+    "text": "Replace this text with a short biography or project description. A useful introduction usually answers:\n\nWho are you, or what is this project?\nWhat work or topics do you focus on?\nWho is this website for?\nWhat should visitors explore next?"
+  },
+  {
+    "objectID": "about.html#skills-or-areas-of-interest",
+    "href": "about.html#skills-or-areas-of-interest",
+    "title": "Marty Marquis",
+    "section": "",
+    "text": "Add an area of expertise\nAdd a tool, method, or topic\nAdd another interest"
+  },
+  {
+    "objectID": "about.html#links",
+    "href": "about.html#links",
+    "title": "Marty Marquis",
+    "section": "",
+    "text": "GitHub\nOrganization or professional profile\nEmail or contact page"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Use this page for projects, publications, documentation, reports, training materials, or other work you want to share."
+  },
+  {
+    "objectID": "projects.html#project-one",
+    "href": "projects.html#project-one",
+    "title": "Projects",
+    "section": "Project One",
+    "text": "Project One\nStatus: In progress\nDescribe the project in two or three sentences. Focus on the problem, your contribution, and the result or intended outcome.\nView the repository"
+  },
+  {
+    "objectID": "projects.html#project-two",
+    "href": "projects.html#project-two",
+    "title": "Projects",
+    "section": "Project Two",
+    "text": "Project Two\nStatus: Complete\nDescribe another project or resource. You can add images, links, tables, citations, or executable code to a Quarto page.\nLearn more"
+  },
+  {
+    "objectID": "projects.html#add-another-project",
+    "href": "projects.html#add-another-project",
+    "title": "Projects",
+    "section": "Add another project",
+    "text": "Add another project\nCopy one of the project sections above, change its title and content, and preview the site to confirm the layout still works."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "I’m a senior research analyst at ECOnorthwest in Portland, Oregon. I worked as a musician for over a decade before returning to school during the pandemic years to study geospatial information science and pivoting into my current work. My interests include reading, American football, and coding in R."
+  },
+  {
+    "objectID": "index.html#your-name-or-project",
+    "href": "index.html#your-name-or-project",
+    "title": "Welcome",
+    "section": "",
+    "text": "Write a short introduction that tells visitors who you are, what this site is about, or what they can find here.\nLearn more View projects"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Welcome",
+    "section": "What I do",
+    "text": "What I do\nI’m a senior research analyst at ECOnorthwest. I worked as a musician for over a decade before returning to school during the pandemic years to study geospatial information science. My interests include reading, American football, and coding in R."
+  },
+  {
+    "objectID": "index.html#featured-work",
+    "href": "index.html#featured-work",
+    "title": "Welcome",
+    "section": "Featured work",
+    "text": "Featured work\n\nMaps & data visualization\nSkookum Sound"
+  },
+  {
+    "objectID": "index.html#contact-or-next-steps",
+    "href": "index.html#contact-or-next-steps",
+    "title": "Welcome",
+    "section": "Contact or next steps",
+    "text": "Contact or next steps\n\nECOnorthwest\nCity of Scappoose\nBlitzen Trapper via archive.org"
+  },
+  {
+    "objectID": "about.html#about-marty",
+    "href": "about.html#about-marty",
+    "title": "Marty Marquis",
+    "section": "",
+    "text": "A cartographer and spatial analyst based in Cascadia, Marty currently serves on the City Council in Scappoose, Oregon. Founding member of the band Blitzen Trapper, he toured extensively in North America and Europe for a dozen years and was inducted in the Oregon Music Hall of Fame in 2024."
+  },
+  {
+    "objectID": "index.html#marty-marquis",
+    "href": "index.html#marty-marquis",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is a site built from a repo template, used in the R Cascadia Intermediate GitHub workshop to learn basics of quarto and automating updates.\nLearn more View projects"
+  }
+]
