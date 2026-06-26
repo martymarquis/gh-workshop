@@ -1,0 +1,29 @@
+---
+title: "Projects"
+---
+
+Use this page for projects, publications, documentation, reports, training materials, or other work you want to share.
+
+::: {.project-card}
+## Project One
+
+**Status:** In progress
+
+Describe the project in two or three sentences. Focus on the problem, your contribution, and the result or intended outcome.
+
+[View the repository](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+:::
+
+::: {.project-card}
+## Project Two
+
+**Status:** Complete
+
+Describe another project or resource. You can add images, links, tables, citations, or executable code to a Quarto page.
+
+[Learn more](https://quarto.org/docs/authoring/markdown-basics.html)
+:::
+
+## Add another project
+
+Copy one of the project sections above, change its title and content, and preview the site to confirm the layout still works.

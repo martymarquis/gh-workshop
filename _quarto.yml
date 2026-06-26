@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Your Name or Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "Built with Quarto"
+    right: "Update this footer in _quarto.yml"
+  repo-url: https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  repo-actions: [edit, issue]
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true

@@ -1,0 +1,27 @@
+---
+title: "Welcome"
+---
+
+::: {.hero}
+## Your Name or Project
+
+Write a short introduction that tells visitors who you are, what this site is about, or what they can find here.
+
+[Learn more](about.qmd){.btn .btn-primary}
+[View projects](projects.qmd){.btn .btn-outline-primary}
+:::
+
+## What I do
+
+Replace this section with two or three sentences about your work, interests, research, community, or project.
+
+## Featured work
+
+Use this area to highlight something you want visitors to notice first.
+
+- [Project or resource title](projects.qmd)
+- [Another useful link](https://quarto.org/docs/websites/)
+
+## Contact or next steps
+
+Add a preferred way for visitors to contact you, find your work, or learn more. Avoid publishing personal information you do not want to share publicly.

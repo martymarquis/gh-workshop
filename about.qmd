@@ -1,0 +1,32 @@
+---
+title: "About"
+---
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+![Replace this placeholder with an image of yourself, your project, or something relevant to the site.](images/profile-placeholder.svg){.profile-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+## About me or this project
+
+Replace this text with a short biography or project description. A useful introduction usually answers:
+
+- Who are you, or what is this project?
+- What work or topics do you focus on?
+- Who is this website for?
+- What should visitors explore next?
+
+## Skills or areas of interest
+
+- Add an area of expertise
+- Add a tool, method, or topic
+- Add another interest
+
+## Links
+
+- [GitHub](https://github.com/YOUR-USERNAME)
+- [Organization or professional profile](https://example.org)
+- [Email or contact page](https://example.org/contact)
+:::
+:::
