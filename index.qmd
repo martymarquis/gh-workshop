@@ -1,27 +1,15 @@
 ---
 title: "Welcome"
 ---
-
-::: {.hero}
-## Your Name or Project
-
-Write a short introduction that tells visitors who you are, what this site is about, or what they can find here.
-
-[Learn more](about.qmd){.btn .btn-primary}
-[View projects](projects.qmd){.btn .btn-outline-primary}
-:::
-
-## What I do
-
-Replace this section with two or three sentences about your work, interests, research, community, or project.
+I'm a senior research analyst at ECOnorthwest in Portland, Oregon. I worked as a musician for over a decade before returning to school during the pandemic years to study geospatial information science and pivoting into my current work. My interests include reading, American football, and coding in R.
 
 ## Featured work
 
-Use this area to highlight something you want visitors to notice first.
-
-- [Project or resource title](projects.qmd)
-- [Another useful link](https://quarto.org/docs/websites/)
+- [Maps & data visualization](projects.qmd)
+- [Skookum Sound](https://martymarquis.bandcamp.com)
 
 ## Contact or next steps
 
-Add a preferred way for visitors to contact you, find your work, or learn more. Avoid publishing personal information you do not want to share publicly.
+- [ECOnorthwest](https://econw.com)
+- [City of Scappoose](https://www.scappoose.gov)
+- [Blitzen Trapper via archive.org](https://archive.org/details/BlitzenTrapper)

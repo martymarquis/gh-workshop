@@ -1,21 +1,17 @@
 ---
-title: "About"
+title: ""
 ---
 
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
-![Replace this placeholder with an image of yourself, your project, or something relevant to the site.](images/profile-placeholder.svg){.profile-image}
+![](images/Marty_Marquis_headshot.jpg){.profile-image}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-## About me or this project
+## About Marty
 
-Replace this text with a short biography or project description. A useful introduction usually answers:
+A cartographer and spatial analyst based in Cascadia, Marty currently serves on the City Council in Scappoose, Oregon. Founding member of the band Blitzen Trapper, he toured extensively in North America and Europe for a dozen years and was inducted in the Oregon Music Hall of Fame in 2024.
 
-- Who are you, or what is this project?
-- What work or topics do you focus on?
-- Who is this website for?
-- What should visitors explore next?
 
 ## Skills or areas of interest
 
