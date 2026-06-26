@@ -50,3 +50,6 @@ rsconnect/
 
 /.quarto/
 **/*.quarto_ipynb
+
+# Quarto render output (built fresh by CI on each push)
+/_site/
